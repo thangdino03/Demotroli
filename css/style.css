@@ -1,7 +1,9 @@
-header {
-   background-image: url(../images/thpthoanghoatham.png);
-   padding-bottom: 15%;
-   background-size: 100% 100%;
+header a .anhheader {
+   width: 100%;
+   /* background-image: url(../images/thpthoanghoatham.png); */
+   /* padding-bottom: 15%; */
+   /* background-size: 100% 100%; */
+
 }
 
 * {
